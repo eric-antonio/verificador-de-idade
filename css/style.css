@@ -21,9 +21,13 @@ section{
     
 
 }
-.sec
+.dv1{
+    display: flex;
+    background-color: aquamarine;
+}
 .res{
     display: flex;
+    background-color:blue;
 }
 
 footer{
